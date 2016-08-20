@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "standard"
+  ],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "modules": true
+    }
+  },
+  "env": {
+    "node": true
+  }
+}
